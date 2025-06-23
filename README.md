@@ -65,7 +65,7 @@
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Projects & Prizes
 
 ### **KRX Financial Language Model Competition** (Dec 2024)  
 - **Team:** Prometheus AI Club  
@@ -90,11 +90,13 @@
 
 ### **KSA Digitalization Analysis** (Dec 2022)  
 *Korean Standards Association*  
+- **Result:** Excellence Award
 - Compared public vs. private sector digitalization costs & benefits  
 - Conducted inter-governmental data research, gap analysis, and strategy recommendations  
 
 ### **Robotics Mobility Proposal** (Nov 2021)  
 *KOPOMS & Hyundai Motors*  
+- **Result:** Grand Prize
 - Analyzed delivery-related social costs—including traffic congestion and safety impacts—using public big data  
 - Designed a data-driven architecture for robotics-based mobility solutions to mitigate social externalities  
 
