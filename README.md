@@ -18,7 +18,7 @@
 - **Option-data signals** for US equity trading  
 - **Volatility surface construction** (SABR & extensions)  
 - **Fine-tuning financial language models** (LoRA / QLoRA)  
-- **Retrieval-Augmented Generation** for contracts & QA  
+- **Retrieval-Augmented Generation**
 
 ---
 
