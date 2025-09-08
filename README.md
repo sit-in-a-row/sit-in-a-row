@@ -1,5 +1,5 @@
 # Yeonsuk Jung  
-**Quantitative NLP & Finance Enthusiast**
+**Quantitative Finance & NLP Enthusiast**
 
 ---
 
@@ -126,5 +126,3 @@
 - yeonsukjung1212@gmail.com  
 
 ---
-
-*“Bridging NLP and quantitative finance to drive the next wave of data-driven investment.”*  
