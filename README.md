@@ -65,6 +65,10 @@
 
 ## 🚀 Key Projects & Prizes
 
+### kr-finBERT-ABSA-SC
+- Enhanced stock price prediction accuracy by integrating Aspect-Based Sentiment Analysis (ABSA) into the conventional finBERT model
+- Curated and augmented a domain-specific dataset from online stock-related news, with labeling supported by a Large Language Model (LLM)
+
 ### **KRX Financial Language Model Competition** (Dec 2024)  
 - **Team:** Prometheus AI Club  
 - **Result:** Finalist; top scores in Financial Markets (59.6) & Lonform (2nd)  
