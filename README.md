@@ -65,7 +65,7 @@
 
 ## 🚀 Key Projects & Prizes
 
-### kr-finBERT-ABSA-SC
+### **kr-finBERT-ABSA-SC** (Jun 2025 ~)
 - Enhanced stock price prediction accuracy by integrating Aspect-Based Sentiment Analysis (ABSA) into the conventional finBERT model
 - Curated and augmented a domain-specific dataset from online stock-related news, with labeling supported by a Large Language Model (LLM)
 
